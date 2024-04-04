@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/MSI/Documents/Unreal Projects/Backup/AI-UE5-backup-master/AI-UE5-backup-master/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/MSI/Documents/Unreal Projects/Backup/AI-UE5-backup-master/AI-UE5-backup-master/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/DamageSystem/BPI_Damagable.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/AISystem/Widgets/WB_EnemyHealthBar.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/AISystem/Enemies/BP_Enemy_Ranged.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3A/PHVF7FYLXP05RM17H2SEGD.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SE/ZRVUD2JIQ5UK644TOPEH5C.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/73/IQSUDMEB9E1Q7B5LEQJGTO.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/15/47AF3Y8TY8K9BDD8M3X6AE.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/AISystem/Enemies/BP_Enemy_Melee.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TZ/EO0RRWA0NNC2UMUOBWPE62.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0Q/N1AQ7EHB7H11OPNCJ31E68.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/A9/WW70T7XLSOJ87EICLNP7ML.uasset",
+				"C:/Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Z1/BWTS6RMP0REAQJKDE39CII.uasset"
 			]
 		}
 	]
