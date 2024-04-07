@@ -3859,3 +3859,761 @@ Script call stack:
 [2024.04.07-09.30.13:071][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.04.07-09.30.28:444][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2024.04.07-09.30.31:098][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.07-09.31.44:854][249]LogDerivedDataCache: C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.175 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1742 files in 2723 folders with total size 80 MiB.
+[2024.04.07-09.32.11:732][679]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable.BPI_ManaCapable
+[2024.04.07-09.32.11:733][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.32.11:733][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.32.20:263][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_StaminaCapable.BPI_StaminaCapable
+[2024.04.07-09.32.20:263][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.32.20:264][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.32.26:489][426]LogSlate: Window 'BPI_StaminaCapable' being destroyed
+[2024.04.07-09.32.26:532][426]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.26:532][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.32.40:036][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.32.40:144][145]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable
+[2024.04.07-09.32.40:144][145]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPI_ManaCapableEF255AE9469D0435E5C9B9B1C979B41E.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/DamageSystem/BPI_ManaCapable.uasset'
+[2024.04.07-09.32.40:161][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 4.45 sec)
+[2024.04.07-09.32.40:166][145]AssetCheck: New page: Asset Save: BPI_ManaCapable
+[2024.04.07-09.32.40:166][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable.BPI_ManaCapable
+[2024.04.07-09.32.41:953][245]BlueprintLog: New page: Compile BPI_ManaCapable
+[2024.04.07-09.32.42:007][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.07-09.32.43:319][304]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.43:319][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.32.44:998][392]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.44:998][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.32.46:835][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.32.47:022][489]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.32.47:023][489]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_Player746F486A453B55047566AF80F006417F.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.32.47:048][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 4.66 sec)
+[2024.04.07-09.32.47:055][489]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.07-09.32.47:055][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.32.48:337][562]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.07-09.32.48:337][562]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.48:338][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.32.49:924][644]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.07-09.32.49:924][644]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.49:924][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.32.50:892][696]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.32.50:892][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.33.26:017][644]BlueprintLog: New page: Compile BP_GameMode
+[2024.04.07-09.33.26:099][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.07-09.33.34:408][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.33.34:516][ 91]LogSavePackage: Moving output files for package: /Game/_DevContent_/GameSystem/BP_GameMode
+[2024.04.07-09.33.34:517][ 91]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_GameMode3EF8787C45B3D3892CFA60B750F63D92.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/GameSystem/BP_GameMode.uasset'
+[2024.04.07-09.33.34:530][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 4.78 sec)
+[2024.04.07-09.33.34:541][ 91]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.04.07-09.33.34:541][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/GameSystem/BP_GameMode.BP_GameMode
+[2024.04.07-09.33.36:198][180]BlueprintLog: New page: Compile BP_GameMode
+[2024.04.07-09.33.36:269][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.07-09.33.45:162][673]BlueprintLog: New page: Compile BP_GameMode
+[2024.04.07-09.33.45:254][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.07-09.33.47:873][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.33.47:976][813]LogSavePackage: Moving output files for package: /Game/_DevContent_/GameSystem/BP_GameMode
+[2024.04.07-09.33.47:977][813]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_GameMode2FF458344D879165976AC6B125993FBB.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/GameSystem/BP_GameMode.uasset'
+[2024.04.07-09.33.47:999][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.91 sec)
+[2024.04.07-09.33.48:006][813]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.04.07-09.33.48:006][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/GameSystem/BP_GameMode.BP_GameMode
+[2024.04.07-09.33.49:296][884]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.07-09.33.49:296][884]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.33.49:296][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.34.52:446][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.34.52:639][237]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.34.52:640][237]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerController3E0B5D4C45F710B98B519B96BF31AA19.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.34.52:664][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 5.13 sec)
+[2024.04.07-09.34.52:673][237]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.34.52:673][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.35.13:851][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_StaminaCapable.BPI_StaminaCapable
+[2024.04.07-09.35.13:852][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.35.13:852][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.35.20:065][672]LogSlate: Window 'BPI_StaminaCapable' being destroyed
+[2024.04.07-09.35.20:107][672]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.35.20:107][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.35.21:334][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable.BPI_ManaCapable
+[2024.04.07-09.35.21:336][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.35.21:346][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.35.38:584][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.35.38:680][687]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable
+[2024.04.07-09.35.38:685][687]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPI_ManaCapable4AE6DE1B4C16187B98BE92AD9E1F3A7A.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/DamageSystem/BPI_ManaCapable.uasset'
+[2024.04.07-09.35.38:695][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 5.24 sec)
+[2024.04.07-09.35.38:701][687]AssetCheck: New page: Asset Save: BPI_ManaCapable
+[2024.04.07-09.35.38:701][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/DamageSystem/BPI_ManaCapable.BPI_ManaCapable
+[2024.04.07-09.35.41:994][876]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.35.41:994][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.37.11:377][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.04.07-09.37.11:383][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.37.11:576][618]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.37.11:576][618]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerControllerEE62B2D4492D78E411C7929102239612.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.37.11:601][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 5.45 sec)
+[2024.04.07-09.37.11:609][618]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.37.11:609][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.37.19:664][ 57]LogEditorTransaction: Undo Move Nodes
+[2024.04.07-09.38.12:504][890]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.07-09.38.24:521][559]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.07-09.38.29:946][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.38.30:147][862]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.38.30:148][862]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerController21B22EF3461C8D00E8AD95BF35E590AF.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.38.30:181][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 5.69 sec)
+[2024.04.07-09.38.30:189][862]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.38.30:189][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.38.31:017][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.35:983][168]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.38.35:983][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.38.35:984][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.38.56:380][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.38.56:387][306]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.38.56:390][306]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.38.56:390][306]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.38.56:390][306]LogWorldPartition: Display: GetPartitionedActors took 12 us (total: 385 us)
+[2024.04.07-09.38.56:390][306]LogWorldPartition: Display: GenerateStreaming took 487 us (total: 13 ms)
+[2024.04.07-09.38.56:391][306]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.07-09.38.56:396][306]LogPlayLevel: [PlayLevel] Compiling BPI_ManaCapable before play...
+[2024.04.07-09.38.56:533][306]LogPlayLevel: [PlayLevel] Compiling BP_PlayerController before play...
+[2024.04.07-09.38.56:681][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.07-09.38.56:684][306]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (2 blueprints)
+[2024.04.07-09.38.56:684][306]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:38:56)
+[2024.04.07-09.38.56:684][306]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.38.56:704][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019800s)
+[2024.04.07-09.38.56:704][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.019867s)
+[2024.04.07-09.38.56:704][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.38.56:704][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.38.56:704][306]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.38.56:706][306]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.38.56:706][306]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.38.56:706][306]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.38.56:711][306]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.38.56:711][306]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 861 ms)
+[2024.04.07-09.38.56:712][306]LogPlayLevel: PIE: World Init took: (0.007433s)
+[2024.04.07-09.38.56:744][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.07-09.38.56:745][306]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.38.56:745][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.38.56:745][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.38.56:745][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.38.56:745][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.38.56:745][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.38.56:747][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.38.56:770][306]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.38.56:770][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.38.56:770][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.38.56:770][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.38.56:771][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.04.07-09.38.56:771][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.04.07-09.38.56:773][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.04.07-09.38.56:773][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.04.07-09.38.56:773][306]LogInit: FAudioDevice initialized with ID 24.
+[2024.04.07-09.38.56:773][306]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.38.56:773][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.07-09.38.56:777][306]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.38.56:811][306]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.38.56
+[2024.04.07-09.38.56:820][306]LogWorld: Bringing up level for play took: 0.042102
+[2024.04.07-09.38.56:822][306]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.04.07-09.38.56:832][306]PIE: Server logged in
+[2024.04.07-09.38.56:833][306]PIE: Play in editor total start time 0,446 seconds.
+[2024.04.07-09.38.56:860][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:860][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:861][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:862][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:863][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:864][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:938][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:939][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:939][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:940][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:941][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:942][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.38.56:942][307]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.39.00:478][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.39.00:478][502]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.39.00:478][502]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.39.00:480][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.39.00:480][502]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.39.00:484][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.39.00:492][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.39.00:526][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.39.00:527][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.07-09.39.00:527][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.07-09.39.00:529][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.07-09.39.00:541][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.07-09.39.00:576][502]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.39.00:581][503]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.04.07-09.39.00:590][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.39.53:944][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.07-09.39.53:951][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.39.54:150][343]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.39.54:151][343]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_Player2DA3653D4DA8EBC6AF457A94E4310EDF.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.39.54:174][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 5.91 sec)
+[2024.04.07-09.39.54:183][343]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.07-09.39.54:183][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.40.21:337][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.40.21:338][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.40.21:338][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.40.33:945][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.07-09.40.33:950][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.40.34:128][496]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.40.34:128][496]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_Player22C2F09541FDD21F0770CFB52A87F95A.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.40.34:138][496]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/BPC_ManaComp
+[2024.04.07-09.40.34:139][496]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPC_ManaComp2A3027304FAB9706965BA88186B53194.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/BPC_ManaComp.uasset'
+[2024.04.07-09.40.34:166][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 6.13 sec)
+[2024.04.07-09.40.34:178][496]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.07-09.40.34:178][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.40.34:178][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.40.35:046][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/Components/BPC_StaminaComp.BPC_StaminaComp
+[2024.04.07-09.40.35:046][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.40.35:047][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.40.42:940][903]LogSlate: Window 'BPC_StaminaComp' being destroyed
+[2024.04.07-09.40.58:688][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.40.58:812][754]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/BPC_ManaComp
+[2024.04.07-09.40.58:813][754]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPC_ManaComp47EB14CA4B2A40454D79ABA44DA4145D.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/BPC_ManaComp.uasset'
+[2024.04.07-09.40.58:834][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 6.27 sec)
+[2024.04.07-09.40.58:842][754]AssetCheck: New page: Asset Save: BPC_ManaComp
+[2024.04.07-09.40.58:842][754]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.41.39:290][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.41.39:428][968]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/BPC_ManaComp
+[2024.04.07-09.41.39:428][968]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPC_ManaComp1A6D4B424A16147AC6C1F78FB4D614A1.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/BPC_ManaComp.uasset'
+[2024.04.07-09.41.39:450][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 6.43 sec)
+[2024.04.07-09.41.39:466][968]AssetCheck: New page: Asset Save: BPC_ManaComp
+[2024.04.07-09.41.39:467][968]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.41.40:719][ 39]BlueprintLog: New page: Compile BPC_ManaComp
+[2024.04.07-09.41.40:803][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.07-09.42.02:943][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.07-09.42.02:949][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.42.03:177][225]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.42.03:177][225]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_Player6A3ED32A4B58BEAABE43C89C65CAADD8.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.42.03:201][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 252 ms (total: 6.69 sec)
+[2024.04.07-09.42.03:210][225]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.07-09.42.03:210][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.42.03:825][259]BlueprintLog: New page: Compile BP_Player
+[2024.04.07-09.42.04:012][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.07-09.42.42:415][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.07-09.42.42:420][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.42.42:638][321]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.42.42:639][321]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerFA5A0A3641E4DFC3A398AE9663150BDB.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.42.42:663][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 6.93 sec)
+[2024.04.07-09.42.42:671][321]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.07-09.42.42:671][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.44.38:714][505]BlueprintLog: New page: Compile BPC_ManaComp
+[2024.04.07-09.44.38:796][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.07-09.44.39:800][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.04.07-09.44.39:806][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.44.39:953][554]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/BPC_ManaComp
+[2024.04.07-09.44.39:954][554]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPC_ManaComp6BC7A3DA4698EE5891C6D7B3FFFDDBFF.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/BPC_ManaComp.uasset'
+[2024.04.07-09.44.39:977][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 7.10 sec)
+[2024.04.07-09.44.39:984][554]AssetCheck: New page: Asset Save: BPC_ManaComp
+[2024.04.07-09.44.39:984][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.44.41:377][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.44.41:383][629]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.44.41:387][629]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.44.41:387][629]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.44.41:387][629]LogWorldPartition: Display: GetPartitionedActors took 14 us (total: 400 us)
+[2024.04.07-09.44.41:388][629]LogWorldPartition: Display: GenerateStreaming took 605 us (total: 14 ms)
+[2024.04.07-09.44.41:388][629]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.07-09.44.41:394][629]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.04.07-09.44.41:561][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.04.07-09.44.41:563][629]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2024.04.07-09.44.41:563][629]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:44:41)
+[2024.04.07-09.44.41:563][629]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.44.41:585][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022384s)
+[2024.04.07-09.44.41:585][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022440s)
+[2024.04.07-09.44.41:586][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.44.41:586][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.44.41:586][629]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.44.41:587][629]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.44.41:587][629]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.44.41:587][629]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.44.41:593][629]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.44.41:593][629]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 867 ms)
+[2024.04.07-09.44.41:594][629]LogPlayLevel: PIE: World Init took: (0.008616s)
+[2024.04.07-09.44.41:628][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.04.07-09.44.41:629][629]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.44.41:630][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.44.41:630][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.44.41:630][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.44.41:630][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.44.41:631][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.44.41:633][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.44.41:656][629]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.44.41:656][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.44.41:656][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.44.41:656][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.44.41:658][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.04.07-09.44.41:658][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.04.07-09.44.41:660][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.04.07-09.44.41:661][629]LogInit: FAudioDevice initialized with ID 25.
+[2024.04.07-09.44.41:661][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.04.07-09.44.41:661][629]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.44.41:661][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.07-09.44.41:665][629]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.44.41:700][629]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.44.41
+[2024.04.07-09.44.41:709][629]LogWorld: Bringing up level for play took: 0.044209
+[2024.04.07-09.44.41:713][629]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.04.07-09.44.41:727][629]PIE: Server logged in
+[2024.04.07-09.44.41:728][629]PIE: Play in editor total start time 0,345 seconds.
+[2024.04.07-09.44.41:755][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:756][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:757][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:758][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:758][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:759][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:760][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:804][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:804][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:804][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:806][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:807][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:807][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.44.41:808][630]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.45.07:697][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.45.07:697][ 87]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.45.07:698][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.45.07:699][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.45.07:699][ 87]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.45.07:704][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.45.07:711][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.45.07:744][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.45.07:746][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.07-09.45.07:746][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.07-09.45.07:748][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.07-09.45.07:761][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.07-09.45.07:796][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.45.07:804][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.04.07-09.45.07:828][ 88]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.45.53:480][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_DevContent_/GameSystem/BP_GameMode.BP_GameMode
+[2024.04.07-09.45.53:481][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.45.53:481][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.45.58:101][829]BlueprintLog: New page: Compile BP_GameMode
+[2024.04.07-09.45.58:184][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.07-09.46.23:631][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.07-09.46.23:636][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.46.23:818][198]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.46.23:818][198]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerController22B356774C64506D8529F18059D4012B.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.46.23:842][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 7.31 sec)
+[2024.04.07-09.46.23:851][198]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.46.23:851][198]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.48.45:970][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.48.46:183][ 86]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.48.46:183][ 86]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerController120121F54FE815A7628442918E154268.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.48.46:208][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 7.54 sec)
+[2024.04.07-09.48.46:226][ 86]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.48.46:226][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.50.00:620][170]LogEditorTransaction: Undo Move Node
+[2024.04.07-09.50.01:346][185]LogEditorTransaction: Undo Move Node
+[2024.04.07-09.50.05:811][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.07-09.50.05:814][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.50.06:018][419]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.50.06:019][419]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerController4E95E5AF4C73572744A80A8F7312B75E.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.50.06:042][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 7.77 sec)
+[2024.04.07-09.50.06:054][419]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.50.06:054][419]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.50.15:654][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.07-09.50.15:659][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.50.15:866][951]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.50.15:867][951]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerControllerCB3957684A1AA10CD05584B6FB6E8C3A.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.50.15:892][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 8.00 sec)
+[2024.04.07-09.50.15:900][951]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.50.15:900][951]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.50.17:644][ 49]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:506][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.50.18:515][ 90]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.50.18:521][ 90]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.50.18:521][ 90]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.50.18:521][ 90]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 421 us)
+[2024.04.07-09.50.18:522][ 90]LogWorldPartition: Display: GenerateStreaming took 663 us (total: 15 ms)
+[2024.04.07-09.50.18:522][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.07-09.50.18:527][ 90]LogPlayLevel: [PlayLevel] Compiling BP_PlayerController before play...
+[2024.04.07-09.50.18:762][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.04.07-09.50.18:765][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 243 ms (1 blueprints)
+[2024.04.07-09.50.18:765][ 90]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:50:18)
+[2024.04.07-09.50.18:765][ 90]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.50.18:798][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032689s)
+[2024.04.07-09.50.18:798][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.032734s)
+[2024.04.07-09.50.18:798][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.50.18:798][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.50.18:799][ 90]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.50.18:800][ 90]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.50.18:800][ 90]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.50.18:800][ 90]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.50.18:807][ 90]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.50.18:807][ 90]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 874 ms)
+[2024.04.07-09.50.18:807][ 90]LogPlayLevel: PIE: World Init took: (0.008928s)
+[2024.04.07-09.50.18:836][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.07-09.50.18:837][ 90]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.50.18:837][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.50.18:838][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.50.18:838][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.50.18:838][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.50.18:838][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.50.18:840][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.50.18:860][ 90]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.50.18:860][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.50.18:860][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.50.18:860][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.50.18:861][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.04.07-09.50.18:861][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.04.07-09.50.18:864][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.04.07-09.50.18:864][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.04.07-09.50.18:864][ 90]LogInit: FAudioDevice initialized with ID 26.
+[2024.04.07-09.50.18:864][ 90]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.50.18:864][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.07-09.50.18:868][ 90]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.50.18:895][ 90]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.50.18
+[2024.04.07-09.50.18:903][ 90]LogWorld: Bringing up level for play took: 0.034954
+[2024.04.07-09.50.18:905][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.04.07-09.50.18:917][ 90]PIE: Server logged in
+[2024.04.07-09.50.18:918][ 90]PIE: Play in editor total start time 0,403 seconds.
+[2024.04.07-09.50.18:938][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:939][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:940][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:940][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:941][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:942][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:943][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:985][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:985][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:986][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:986][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:988][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:988][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.18:989][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.31:127][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.50.31:127][761]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.50.31:128][761]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.50.31:129][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.50.31:129][761]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.50.31:134][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.50.31:141][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.50.31:177][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.50.31:178][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.07-09.50.31:178][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.07-09.50.31:180][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.07-09.50.31:191][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.04.07-09.50.31:225][761]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.31:231][762]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.04.07-09.50.31:241][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:347][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.50.49:354][724]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.50.49:358][724]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.50.49:358][724]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.50.49:358][724]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 441 us)
+[2024.04.07-09.50.49:358][724]LogWorldPartition: Display: GenerateStreaming took 817 us (total: 16 ms)
+[2024.04.07-09.50.49:359][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.07-09.50.49:359][724]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:50:49)
+[2024.04.07-09.50.49:359][724]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.50.49:381][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022068s)
+[2024.04.07-09.50.49:381][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022106s)
+[2024.04.07-09.50.49:381][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.50.49:381][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.50.49:382][724]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.50.49:382][724]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.50.49:382][724]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.50.49:382][724]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.50.49:388][724]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.50.49:388][724]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 879 ms)
+[2024.04.07-09.50.49:388][724]LogPlayLevel: PIE: World Init took: (0.006777s)
+[2024.04.07-09.50.49:417][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.07-09.50.49:419][724]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.50.49:419][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.50.49:419][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.50.49:420][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.50.49:420][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.50.49:420][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.50.49:422][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.50.49:442][724]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.50.49:442][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.50.49:442][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.50.49:442][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.50.49:444][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.04.07-09.50.49:444][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.04.07-09.50.49:447][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.04.07-09.50.49:447][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.04.07-09.50.49:447][724]LogInit: FAudioDevice initialized with ID 27.
+[2024.04.07-09.50.49:447][724]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.50.49:447][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.07-09.50.49:450][724]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.50.49:479][724]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.50.49
+[2024.04.07-09.50.49:488][724]LogWorld: Bringing up level for play took: 0.038086
+[2024.04.07-09.50.49:491][724]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.04.07-09.50.49:502][724]PIE: Server logged in
+[2024.04.07-09.50.49:503][724]PIE: Play in editor total start time 0,149 seconds.
+[2024.04.07-09.50.49:561][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:561][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:562][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:562][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:563][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:563][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:564][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:579][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:579][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:580][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:580][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:581][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:582][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.49:582][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.50.53:946][972]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.50.53:946][972]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.50.59:246][  7]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.50.59:246][  7]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.02:470][ 44]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.51.02:470][ 44]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.05:728][ 78]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.51.05:728][ 78]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.08:888][113]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.51.08:888][113]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.13:968][150]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.51.13:968][150]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.25:440][186]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2044
+[2024.04.07-09.51.25:440][186]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.51.48:056][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.51.48:056][186]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.51.48:058][186]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.51.48:059][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.51.48:059][186]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.51.48:068][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.51.48:078][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.51.48:111][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.07-09.51.48:113][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.07-09.51.48:113][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.07-09.51.48:116][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.07-09.51.48:121][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.51.48:128][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.07-09.51.48:146][187]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.04.07-09.53.08:427][505]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:408][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.53.09:414][558]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.53.09:417][558]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.53.09:417][558]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.53.09:417][558]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 460 us)
+[2024.04.07-09.53.09:418][558]LogWorldPartition: Display: GenerateStreaming took 678 us (total: 16 ms)
+[2024.04.07-09.53.09:418][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.07-09.53.09:418][558]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:53:09)
+[2024.04.07-09.53.09:418][558]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.53.09:439][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020186s)
+[2024.04.07-09.53.09:439][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020254s)
+[2024.04.07-09.53.09:439][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.53.09:439][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.53.09:440][558]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.53.09:441][558]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.53.09:441][558]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.53.09:441][558]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.53.09:446][558]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.53.09:446][558]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 885 ms)
+[2024.04.07-09.53.09:446][558]LogPlayLevel: PIE: World Init took: (0.007164s)
+[2024.04.07-09.53.09:478][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.07-09.53.09:480][558]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.53.09:480][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.53.09:480][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.53.09:481][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.53.09:481][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.53.09:481][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.53.09:483][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.53.09:502][558]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.53.09:503][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.53.09:503][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.53.09:503][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.53.09:504][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.04.07-09.53.09:505][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.04.07-09.53.09:507][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.04.07-09.53.09:507][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.04.07-09.53.09:507][558]LogInit: FAudioDevice initialized with ID 28.
+[2024.04.07-09.53.09:507][558]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.53.09:507][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.07-09.53.09:511][558]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.53.09:543][558]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.53.09
+[2024.04.07-09.53.09:550][558]LogWorld: Bringing up level for play took: 0.038120
+[2024.04.07-09.53.09:552][558]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.07-09.53.09:564][558]PIE: Server logged in
+[2024.04.07-09.53.09:564][558]PIE: Play in editor total start time 0,15 seconds.
+[2024.04.07-09.53.09:633][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:633][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:633][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:633][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:635][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:635][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:636][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:651][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:652][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:653][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:653][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:654][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:654][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.09:655][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.53.11:646][674]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 2197
+[2024.04.07-09.53.11:646][674]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:InpActEvt_LeftControl_K2Node_InputKeyEvent_4
+	Function /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController
+
+[2024.04.07-09.53.38:787][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.53.38:787][674]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.53.38:788][674]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.53.38:789][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.53.38:790][674]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.53.38:794][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.53.38:800][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.53.38:836][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.07-09.53.38:837][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.07-09.53.38:837][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.07-09.53.38:839][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.07-09.53.38:844][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.53.38:851][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.07-09.53.38:871][675]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.07-09.54.19:691][911]BlueprintLog: New page: Compile BPC_ManaComp
+[2024.04.07-09.54.19:848][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.04.07-09.54.23:118][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.54.23:263][ 84]LogSavePackage: Moving output files for package: /Game/_DevContent_/Components/BPC_ManaComp
+[2024.04.07-09.54.23:264][ 84]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BPC_ManaComp2DC14ED64EFEFCA4A498D0A18B483ADB.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/Components/BPC_ManaComp.uasset'
+[2024.04.07-09.54.23:296][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 8.18 sec)
+[2024.04.07-09.54.23:304][ 84]AssetCheck: New page: Asset Save: BPC_ManaComp
+[2024.04.07-09.54.23:304][ 84]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/Components/BPC_ManaComp.BPC_ManaComp
+[2024.04.07-09.54.49:404][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.04.07-09.54.49:409][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.54.49:613][489]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_Player
+[2024.04.07-09.54.49:613][489]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_Player28767520474283F6BB98D09A5F6DF83B.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_Player.uasset'
+[2024.04.07-09.54.49:639][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 8.41 sec)
+[2024.04.07-09.54.49:648][489]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.07-09.54.49:648][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_Player.BP_Player
+[2024.04.07-09.55.37:063][ 35]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController without an associated node. The blueprint breakpoint has been removed
+[2024.04.07-09.55.37:063][ 35]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController without an associated node. The blueprint breakpoint has been removed
+[2024.04.07-09.55.40:154][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.07-09.55.40:158][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-09.55.40:361][212]LogSavePackage: Moving output files for package: /Game/_DevContent_/PlayerSystem/BP_PlayerController
+[2024.04.07-09.55.40:362][212]LogSavePackage: Moving '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Saved/BP_PlayerControllerF3CA97834B60B6E29C599BAEFE5A7A86.tmp' to '../../../../../../Users/MSI/Documents/Unreal Projects/hse/Opponents-AI-in-Slasher-on-UE5/PoslushnikProject/Content/_DevContent_/PlayerSystem/BP_PlayerController.uasset'
+[2024.04.07-09.55.40:385][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 8.64 sec)
+[2024.04.07-09.55.40:392][212]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.04.07-09.55.40:393][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_DevContent_/PlayerSystem/BP_PlayerController.BP_PlayerController
+[2024.04.07-09.55.44:778][452]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.45:532][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-09.55.45:538][490]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-09.55.45:541][490]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.07-09.55.45:542][490]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.07-09.55.45:542][490]LogWorldPartition: Display: GetPartitionedActors took 24 us (total: 485 us)
+[2024.04.07-09.55.45:542][490]LogWorldPartition: Display: GenerateStreaming took 815 us (total: 17 ms)
+[2024.04.07-09.55.45:543][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.07-09.55.45:620][490]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.04.07-09.55.45:763][490]LogPlayLevel: [PlayLevel] Compiling BP_PlayerController before play...
+[2024.04.07-09.55.45:926][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.07-09.55.45:927][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 384 ms (2 blueprints)
+[2024.04.07-09.55.45:928][490]PIE: New page: PIE session: ThirdPersonMap (7 апр. 2024 г., 15:55:45)
+[2024.04.07-09.55.45:928][490]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.55.45:949][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020533s)
+[2024.04.07-09.55.45:949][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020587s)
+[2024.04.07-09.55.45:949][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-09.55.45:949][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-09.55.45:950][490]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.07-09.55.45:950][490]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-09.55.45:951][490]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-09.55.45:951][490]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.07-09.55.45:957][490]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.07-09.55.45:957][490]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 890 ms)
+[2024.04.07-09.55.45:957][490]LogPlayLevel: PIE: World Init took: (0.007659s)
+[2024.04.07-09.55.45:988][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.07-09.55.45:989][490]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.07-09.55.45:989][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-09.55.45:989][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-09.55.45:989][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-09.55.45:990][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-09.55.45:990][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-09.55.45:992][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-09.55.46:011][490]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.04.07-09.55.46:011][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-09.55.46:011][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-09.55.46:011][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-09.55.46:012][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.04.07-09.55.46:012][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.04.07-09.55.46:014][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.04.07-09.55.46:014][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.04.07-09.55.46:014][490]LogInit: FAudioDevice initialized with ID 29.
+[2024.04.07-09.55.46:014][490]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonMap'.
+[2024.04.07-09.55.46:014][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.07-09.55.46:018][490]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.07-09.55.46:044][490]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.07-12.55.46
+[2024.04.07-09.55.46:052][490]LogWorld: Bringing up level for play took: 0.032985
+[2024.04.07-09.55.46:055][490]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.04.07-09.55.46:065][490]PIE: Server logged in
+[2024.04.07-09.55.46:066][490]PIE: Play in editor total start time 0,527 seconds.
+[2024.04.07-09.55.46:094][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:095][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:095][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:097][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:098][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:098][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:099][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:130][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:131][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:131][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:132][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:132][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:133][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.55.46:133][491]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.56.10:886][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.56.10:886][855]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.07-09.56.10:887][855]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-09.56.10:888][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.56.10:889][855]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.07-09.56.10:893][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-09.56.10:899][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-09.56.10:931][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-09.56.10:932][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.07-09.56.10:932][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.07-09.56.10:934][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.07-09.56.10:947][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.07-09.56.10:980][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.56.10:985][856]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.04.07-09.56.10:994][856]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.07-09.56.16:288][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
